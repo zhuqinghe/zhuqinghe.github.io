@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CHN"
-title                    : "He Zhuqing"
+title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "He Zhuqing"
 description              : &description "Zhejiang University, Hangzhou"
