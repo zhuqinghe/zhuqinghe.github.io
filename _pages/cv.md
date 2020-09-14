@@ -16,30 +16,25 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Autumn 2018 - Summer 2019: Front-end Engineer
+  * Zhequ Company
+  * Duties included: Development of websites
+  * Supervisor: None
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Front-end Development
+* Programing languages
+  * C/C++
+  * Python
+  * JS/CSS/HTML
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  Not yet
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======
