@@ -12,26 +12,28 @@ redirect_from:
 Education
 ======
 * B.S. in Information Engineering, Zhejiang University, 2020
-* Now Study for M.S. in Electronics Science and Technology, Zhejiang University
+* M.S. in Electronics Science and Technology, Zhejiang University, 2023
 
 Work experience
 ======
-* Autumn 2018 - Summer 2019: Front-end Engineer
-  * Zhequ Company
-  * Duties included: Development of websites
-  * Supervisor: None
+* 2018-10~2019-08: Front-end Engineer
+  * Company: Zhequ Tech
+  * Duties: websites development
+* 2022-07~2022-08: Software Engineer(intern)
+  * Company: 2012 Lab
+  * Duties: QUIC FEC algorithm development
+* 2023-04~Now: Software Engineer
+  * Company: Alibaba Cloud
+  * Duties: high performance L7 proxy development
   
 Skills
 ======
-* Front-end Development
-* Programing languages
-  * C/C++
-  * Python
-  * JS/CSS/HTML
+* Computer networks
+* Deep Learning
+* Programing languages: Python,Lua,Go,C/C++,Rust
 
 Publications
 ======
-  Not yet
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
